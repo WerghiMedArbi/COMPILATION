@@ -42,6 +42,11 @@ Welcome to the ISI Engineering Student Repository! This repository is dedicated 
 
 ---
 
-### Further Information:
-For any inquiries or assistance, feel free to contact me on Instagram: [@werghimohamedarbi](https://www.instagram.com/werghimohamedarbi/).
 
+### Further Information:
+For any inquiries or assistance, feel free to contact me or my teammates :
+- [@werghimohamedarbi](https://www.instagram.com/werghimohamedarbi/)
+- [Oussama Elhaddad](https://www.facebook.com/Oussema.El.Haddad/)
+- [Chaima Benomrane](https://www.facebook.com/ch.bo.948/)
+
+--- 
