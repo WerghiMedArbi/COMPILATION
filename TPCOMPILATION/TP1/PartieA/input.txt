@@ -1,0 +1,4 @@
+Ce fichier contient plusieurs mots et plusieurs lignes.
+Chaque mot est separe par des espaces ou des tabulations.
+Il y a aussi des nombres comme 123 et 4567 .
+La somme de tous les nombres est : 123 + 4567 = 4690.5

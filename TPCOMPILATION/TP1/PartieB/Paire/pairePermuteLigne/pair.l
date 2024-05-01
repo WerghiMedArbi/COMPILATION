@@ -1,0 +1,19 @@
+pairpair (aa|bb)*((ab|ba)(aa|bb)*(ab|ba)(aa|bb)*)*
+%%
+
+a*b*     { printf("[%s] : des a d'abord et des b ensuite \n", yytext); }
+pairpair { printf("[%s] : nombre pair de a et de b \n", yytext); }
+.        { printf("Non reconnu : [%s]\n", yytext); }
+%%
+
+
+
+int main() {
+    printf("Enter string: ");
+    yylex();
+    return 0;
+}
+
+int yywrap() {
+    return 1;
+}

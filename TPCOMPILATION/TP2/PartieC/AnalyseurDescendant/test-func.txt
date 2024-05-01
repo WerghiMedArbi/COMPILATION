@@ -1,0 +1,13 @@
+E → E + T | T
+T → T * F | F
+F → (E) | id
+Elle se transforme, en appliquant les règles ci-dessus, en :
+
+E → T E’
+E’→ +T E’ | ε
+T → F T’
+T’→ *F T’ | ε
+F → (E) | id
+
+
+--->(id+id)*(id+id)
